@@ -1,7 +1,7 @@
 /home/erhan/github/32bitiz/rpi_pico_playground/000-blink/build/CMakeFiles/rebuild_cache.dir
 /home/erhan/github/32bitiz/rpi_pico_playground/000-blink/build/CMakeFiles/edit_cache.dir
 /home/erhan/github/32bitiz/rpi_pico_playground/000-blink/build/CMakeFiles/ELF2UF2Build.dir
-/home/erhan/github/32bitiz/rpi_pico_playground/000-blink/build/CMakeFiles/esblink.dir
+/home/erhan/github/32bitiz/rpi_pico_playground/000-blink/build/CMakeFiles/myapp.dir
 /home/erhan/github/32bitiz/rpi_pico_playground/000-blink/build/pico-sdk/CMakeFiles/rebuild_cache.dir
 /home/erhan/github/32bitiz/rpi_pico_playground/000-blink/build/pico-sdk/CMakeFiles/edit_cache.dir
 /home/erhan/github/32bitiz/rpi_pico_playground/000-blink/build/pico-sdk/tools/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,13 @@
+# Target labels
+ PioasmBuild
+# Source files and their labels
+/home/erhan/github/32bitiz/rpi_pico_playground/001-blink-pio/build/CMakeFiles/PioasmBuild
+/home/erhan/github/32bitiz/rpi_pico_playground/001-blink-pio/build/CMakeFiles/PioasmBuild.rule
+/home/erhan/github/32bitiz/rpi_pico_playground/001-blink-pio/build/CMakeFiles/PioasmBuild-complete.rule
+/home/erhan/github/32bitiz/rpi_pico_playground/001-blink-pio/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule
+/home/erhan/github/32bitiz/rpi_pico_playground/001-blink-pio/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule
+/home/erhan/github/32bitiz/rpi_pico_playground/001-blink-pio/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule
+/home/erhan/github/32bitiz/rpi_pico_playground/001-blink-pio/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule
+/home/erhan/github/32bitiz/rpi_pico_playground/001-blink-pio/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule
+/home/erhan/github/32bitiz/rpi_pico_playground/001-blink-pio/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule
+/home/erhan/github/32bitiz/rpi_pico_playground/001-blink-pio/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule
